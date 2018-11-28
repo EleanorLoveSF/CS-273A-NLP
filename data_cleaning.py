@@ -1,6 +1,4 @@
 import data_loader as dl
-import os
-import random
 import numpy as np
 import re
 
